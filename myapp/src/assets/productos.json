@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "manzana",
+        "precio": 69.69,
+        "descripcion": "una manzana",
+        "foto": "url"
+    },
+    {
+        "nombre": "banana",
+        "precio": 78.90,
+        "descripcion": "una banana",
+        "foto": ""
+    },
+    {
+        "nombre": "melon",
+        "precio": 120.50,
+        "descripcion": "un melon",
+        "foto": ""
+    }
+]
